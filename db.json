@@ -1,24 +1,8 @@
 {
 "todos":[
-       {
-         "id": 1,
-         "title": "They",
-         "completed": false
-       },
-       {
-         "id": 2,
-         "title": "See",
-         "completed": true,
-       },
-       {
-         "id": 3,
-         "title": "Me",
-         "completed": false
-       },
-       {
-         "id": 4,
-         "title": "Rolling",
-         "completed": false
-       }
+       { "id": 1, "title": "They", "completed": false},
+       { "id": 2, "title": "See",  "completed": true},
+       { "id": 3, "title": "Me",   "completed": false},
+       { "id": 4, "title": "Rolling", "completed": false}
      ]
 }
