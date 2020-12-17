@@ -6,6 +6,18 @@
       "name": "onur",
       "date": "2020-12-12 05:00",
       "btn": "<a href='javascript:;' class='btn btn-sm btn-icon btn-outline-primary' title='Kullanıcıyı Düzenle' id='edit_user' data-id='1'><i class='fas fa-pencil-alt'></i></a> <a href='javascript:;' class='btn btn-sm btn-icon btn-outline-warning' title='Şifresini Güncelle' id='password_user' data-id='1'><i class='fas fa-key'></i></a> <a href='javascript:;' class='btn btn-sm btn-icon btn-outline-danger' title='Kullanıcıyı Kaldır' id='delete_user' data-id='1'><i class='fas fa-trash'></i></a>"
+    },
+    {
+      "id": 2,
+      "name": "akın",
+      "date": "2020-12-12 05:00",
+      "btn": "<a href='javascript:;' class='btn btn-sm btn-icon btn-outline-primary' title='Kullanıcıyı Düzenle' id='edit_user' data-id='1'><i class='fas fa-pencil-alt'></i></a> <a href='javascript:;' class='btn btn-sm btn-icon btn-outline-warning' title='Şifresini Güncelle' id='password_user' data-id='1'><i class='fas fa-key'></i></a> <a href='javascript:;' class='btn btn-sm btn-icon btn-outline-danger' title='Kullanıcıyı Kaldır' id='delete_user' data-id='1'><i class='fas fa-trash'></i></a>"
+    },
+    {
+      "id": 3,
+      "name": "ibrahim",
+      "date": "2020-12-12 05:00",
+      "btn": "<a href='javascript:;' class='btn btn-sm btn-icon btn-outline-primary' title='Kullanıcıyı Düzenle' id='edit_user' data-id='1'><i class='fas fa-pencil-alt'></i></a> <a href='javascript:;' class='btn btn-sm btn-icon btn-outline-warning' title='Şifresini Güncelle' id='password_user' data-id='1'><i class='fas fa-key'></i></a> <a href='javascript:;' class='btn btn-sm btn-icon btn-outline-danger' title='Kullanıcıyı Kaldır' id='delete_user' data-id='1'><i class='fas fa-trash'></i></a>"
     }
   ]
 }
